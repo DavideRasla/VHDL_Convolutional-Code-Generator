@@ -1,8 +1,7 @@
                  
 # C Simulator for a VHDL convolutional code generator
                             
-       		 	 Davide Rasla  
--------------------------------------------------------------------------------                                
+                            
 Here you can find a full working realization of a generator of convolutional
 codes, implemented using VHDL and synthesized with Vivado Tool. Two architecture are
 described, taking into account the different performance among them.
