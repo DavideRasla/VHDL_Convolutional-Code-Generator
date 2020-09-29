@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Jun 21 14:48:23 2019
+# Process ID: 25008
+# Current directory: C:/Users/david/Desktop/Rasla_Davide_505828/VHDL project JustOne/vivado/Vivado_With_One_Reg/Vivado_With_One_Reg.runs/synth_1
+# Command line: vivado.exe -log ConvolutionalGenerator.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ConvolutionalGenerator.tcl
+# Log file: C:/Users/david/Desktop/Rasla_Davide_505828/VHDL project JustOne/vivado/Vivado_With_One_Reg/Vivado_With_One_Reg.runs/synth_1/ConvolutionalGenerator.vds
+# Journal file: C:/Users/david/Desktop/Rasla_Davide_505828/VHDL project JustOne/vivado/Vivado_With_One_Reg/Vivado_With_One_Reg.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ConvolutionalGenerator.tcl -notrace
